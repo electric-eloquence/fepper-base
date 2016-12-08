@@ -31,7 +31,7 @@ function sizeiframe(e) {
   for (j in bpObj) {
     if (sgSize === j) {
       var maxViewportWidth = 2600; // Defined in public/styleguide/js/patternlab-viewer.js
-      var minViewportWidth = 240; // Defined in public/styleguide/js/patternlab-viewer.js 
+      var minViewportWidth = 240; // Defined in public/styleguide/js/patternlab-viewer.js
       var size = bpObj[j];
       var theSize;
       var viewportResizeHandleWidth = 14; // Defined in public/styleguide/js/patternlab-viewer.js
