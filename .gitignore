@@ -10,6 +10,5 @@
 /pref.yml
 /public/*
 !/public/bower.json
-/source/
 ignore/
 node_modules/
