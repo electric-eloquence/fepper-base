@@ -44,7 +44,7 @@ It does not have unnecesary frontend assets, styles, or a Pattern Lab demo.
 
 #### Base install
 * Comes with no unnecessary assets, styles, or Pattern Lab demo.
-* Node.js and Bower must be installed beforehand.
+* Node.js must be installed beforehand.
 * `npm install -g fepper-cli`
 * `npm run install-base`
 * `fp`
