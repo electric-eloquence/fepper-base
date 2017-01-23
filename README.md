@@ -26,7 +26,7 @@ It does not have unnecesary frontend assets, styles, or a Pattern Lab demo.
 
 ### <a id="install"></a>Install
 #### Main install
-* On Mac OS X:
+* On Mac OS:
   * Double-click `fepper.command`
   * Or on the command line, enter `./fepper.command`
 * On other OSs:
