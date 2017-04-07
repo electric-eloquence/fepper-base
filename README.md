@@ -30,7 +30,7 @@ It does not have unnecesary frontend assets, styles, or a Pattern Lab demo.
 * Recommended minimum Node.js version 7.6.0.
 
 #### The simplest way to get started
-* Download the [latest release](https://github.com/electric-eloquence/fepper-base/releases).
+* Download the [latest release](https://github.com/electric-eloquence/fepper/releases).
 
 #### Main install
 * On Mac OS:
