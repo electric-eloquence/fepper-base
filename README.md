@@ -3,7 +3,9 @@
 # A frontend prototyper for the rapid prototyping of websites
 
 ### This is a Base checkout of Fepper.
-It does not have unnecesary frontend assets, styles, or a Pattern Lab demo. 
+It does not have unnecesary frontend assets, styles, or a Pattern Lab demo.
+
+* [Main project](https://github.com/electric-eloquence/fepper)
 
 ### Table of contents
 * [Install](#install)
