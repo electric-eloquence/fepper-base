@@ -1,6 +1,6 @@
 ## Fepper
 
-# A frontend prototyper for the rapid prototyping of websites
+# A frontend prototyper tool for the rapid prototyping of web sites
 
 ### This is a Base checkout of Fepper.
 It does not have unnecesary frontend assets, styles, or a Pattern Lab demo.
