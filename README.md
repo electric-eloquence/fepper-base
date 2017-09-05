@@ -391,8 +391,3 @@ If your Mac is connected to the Internet through a wire:
 * [Default pref.yml](https://github.com/electric-eloquence/fepper-npm/blob/dev/excludes/pref.yml)
 * [Pattern Lab](http://patternlab.io/docs/index.html)
 * [Mustache](https://mustache.github.io/mustache.5.html)
-
-### <a id="contribute"></a>Contribute
-Contributions and bug reports are greatly appreciated!
-
-* Please pull request against the dev branch.
