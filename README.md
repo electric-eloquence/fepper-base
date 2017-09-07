@@ -40,7 +40,7 @@
 * Recommended minimum Node.js version 7.6.0.
 
 #### Simplest way to get started
-* Download the [latest release](https://github.com/electric-eloquence/fepper/releases/latest).
+* Download the <a href="https://github.com/electric-eloquence/fepper-base/releases/latest" target="_blank">latest release</a>.
 
 #### Main install
 * In macOS Finder:
