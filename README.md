@@ -394,6 +394,8 @@ If your Mac is connected to the Internet through a wire:
 * Change the port number if Fepper is listening on a different port
 
 ### <a id="more-documentation"></a>More Documentation
-* [Default pref.yml](https://github.com/electric-eloquence/fepper-npm/blob/dev/excludes/pref.yml)
-* [Pattern Lab](http://patternlab.io/docs/index.html)
-* [Mustache](https://mustache.github.io/mustache.5.html)
+* <a href="https://github.com/electric-eloquence/fepper-npm/blob/dev/excludes/pref.yml" target="_blank">
+  Default pref.yml</a>
+* <a href="http://patternlab.io/docs/index.html" target="_blank">Pattern Lab</a>
+* <a href="https://mustache.github.io/mustache.5.html" target="_blank">
+  Mustache</a>
