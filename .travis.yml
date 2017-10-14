@@ -3,8 +3,8 @@ node_js:
   - "stable"
   - "8.5.0"
 install:
+  - rm -Rf source
+  - npm run install-base
   - npm install eslint@3.x
   - npm install mocha@3.x
   - npm install chai@4.x
-  - rm -Rf source
-  - npm run install-base
