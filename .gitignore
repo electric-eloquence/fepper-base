@@ -13,7 +13,6 @@
 /patternlab-config.json
 /pref.yml
 /public/*
-/source/
 /source/_styles/src/*.css
 ignore/
 node_modules/
