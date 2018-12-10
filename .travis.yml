@@ -3,4 +3,5 @@ node_js:
   - "stable"
   - "8.10.0"
 install:
-  - npm install
+  - rm -Rf source
+  - npm run install-base
