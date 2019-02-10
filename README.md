@@ -13,18 +13,13 @@
 ![Node Version](https://img.shields.io/node/v/fepper.svg)
 [![License](https://img.shields.io/github/license/electric-eloquence/fepper-base.svg)](https://raw.githubusercontent.com/electric-eloquence/fepper-base/release/LICENSE)
 
-### Downstream projects
+### This is the Base distribution of Fepper.
 
-* [Fepper Base](https://github.com/electric-eloquence/fepper-base) - no 
-  unnecessary assets, styles, Pattern Lab demo, or 
-  <a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
-  extension.
-* [Fepper for Drupal](https://github.com/electric-eloquence/fepper-drupal) - 
-  templates configured for Drupal, along with a Drupal theme built to 
-  accommodate those templates.
-* [Fepper for Wordpress](https://github.com/electric-eloquence/fepper-wordpress) 
-  \- templates configured for WordPress, along with a WordPress theme built to 
-  accommodate those templates.
+It does not include unnecesary frontend assets, styles, Pattern Lab demo, or the 
+<a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
+extension.
+
+* [Main distribution (includes those extras)](https://github.com/electric-eloquence/fepper)
 
 ### Table of contents
 
