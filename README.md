@@ -15,8 +15,6 @@
 
 ### This is the Base distribution of Fepper.
 
-### Downstream projects
-
 It does not include unnecesary frontend assets, styles, Pattern Lab demo, or the 
 <a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
 extension.
