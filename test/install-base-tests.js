@@ -5,7 +5,7 @@ const fs = require('fs-extra');
 
 describe('Base Installer', function () {
   it('should copy paragraph.mustache to /source/_patterns/00-elements/', function () {
-    expect(fs.existsSync('source/_patterns/00-elements/paragraph.mustache')).to.equal(true);
+    expect(fs.existsSync('source/_patterns/00-elements/paragraph.mustache')).to.be.true;
   });
 
   it('should populate paragraph.mustache with content: "Fepper Base"', function () {
