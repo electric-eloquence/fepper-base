@@ -13,7 +13,15 @@
 ![Node Version](https://img.shields.io/node/v/fepper.svg)
 [![License][license-image]][license-url]
 
-### This is the Base distribution of Fepper.
+### BROWSER SUPPORT NOTICE!
+
+As of v0.12.0, Fepper will require browser support for 
+<a href="https://github.com/tc39/proposal-class-fields#implementations" target="_blank">
+JavaScript public class fields</a>. Please click the link to see which browsers 
+are compatible. This only pertains to the prototyper (UI). Patterns and their 
+destinations can be as backward-compatible or forward-looking as you wish.
+
+### Downstream projects
 
 It does not include unnecesary frontend assets, styles, Pattern Lab demo, or the 
 <a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
