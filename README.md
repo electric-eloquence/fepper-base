@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/electric-eloquence/fepper-npm/master/excludes/fepper-branding.png"
-    alt="Fepper"
+    alt="Fepper Base"
   >
 </p>
 
@@ -14,7 +14,7 @@
 ![Node Version][node-version-image]
 [![License][license-image]][license-url]
 
-### Downstream projects
+### This is the Base distribution of Fepper.
 
 It does not include unnecesary frontend assets, styles, Pattern Lab demo, or the 
 <a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
@@ -55,7 +55,7 @@ extension.
 #### Simplest way to get started
 
 * Download the 
-  <a href="https://github.com/electric-eloquence/fepper/releases/latest" target="_blank">
+  <a href="https://github.com/electric-eloquence/fepper-base/releases/latest" target="_blank">
   latest release</a>.
 
 #### Mac install
@@ -662,8 +662,8 @@ As a reminder, the viewport sizes can be customized in `source/_scripts/src/vari
   Mustache</a>
 * <a href="https://www.npmjs.com/package/fepper-utils" target="_blank">Fepper Utils</a>
 
-[snyk-image]: https://snyk.io//test/github/electric-eloquence/fepper/master/badge.svg
-[snyk-url]: https://snyk.io//test/github/electric-eloquence/fepper/master
+[snyk-image]: https://snyk.io//test/github/electric-eloquence/fepper-base/master/badge.svg
+[snyk-url]: https://snyk.io//test/github/electric-eloquence/fepper-base/master
 
 [linux-image]: https://github.com/electric-eloquence/fepper-base/workflows/Linux%20build/badge.svg?branch=master
 [linux-url]: https://github.com/electric-eloquence/fepper-base/actions?query=workflow%3A"Linux+build"
@@ -676,5 +676,5 @@ As a reminder, the viewport sizes can be customized in `source/_scripts/src/vari
 
 [node-version-image]: https://img.shields.io/node/v/fepper.svg
 
-[license-image]: https://img.shields.io/github/license/electric-eloquence/fepper.svg
-[license-url]: https://raw.githubusercontent.com/electric-eloquence/fepper/master/LICENSE
+[license-image]: https://img.shields.io/github/license/electric-eloquence/fepper-base.svg
+[license-url]: https://raw.githubusercontent.com/electric-eloquence/fepper-base/master/LICENSE
