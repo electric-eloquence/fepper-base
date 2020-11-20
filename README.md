@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/electric-eloquence/fepper-npm/master/excludes/fepper-branding.png"
-    alt="Fepper"
+    alt="Fepper Base"
   >
 </p>
 
@@ -9,18 +9,11 @@
 
 ### This is the Base distribution of Fepper.
 
-* [Fepper Base](https://github.com/electric-eloquence/fepper-base) - no 
-  unnecessary assets, styles, Pattern Lab demo, or 
-  <a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
-  extension.
-* [Fepper for Drupal](https://github.com/electric-eloquence/fepper-drupal) - 
-  templates configured for Drupal 8, along with a Drupal theme built to 
-  accommodate those templates.
-* [Fepper for Windows](https://github.com/electric-eloquence/fepper-windows) - 
-  scripted to run on Windows.
-* [Fepper for Wordpress](https://github.com/electric-eloquence/fepper-wordpress) 
-  \- templates configured for WordPress, along with a WordPress theme built to 
-  accommodate those templates.
+It does not have unnecesary frontend assets, styles, Pattern Lab demo, or the 
+<a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
+extension.
+
+* [Main project](https://github.com/electric-eloquence/fepper)
 
 ### Table of contents
 
@@ -55,7 +48,7 @@
 #### Simplest way to get started
 
 * Download the 
-  <a href="https://github.com/electric-eloquence/fepper/releases/latest" target="_blank">
+  <a href="https://github.com/electric-eloquence/fepper-base/releases/latest" target="_blank">
   latest release</a>.
 
 #### Main install
