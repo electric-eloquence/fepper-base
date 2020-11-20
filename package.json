@@ -3,20 +3,12 @@
   "description": "Fepper: a Front End Prototyper tool for rapid prototyping of web sites",
   "scripts": {
     "install-base": "node run/install-base.js",
-    "postinstall": "node run/install.js",
-    "start": "node node_modules/fepper/index.js",
-    "test": "npm run test:eslint && npm run test:mocha",
-    "test:eslint": "eslint run && eslint test",
-    "test:mocha": "mocha test/install-tests.js && mocha test/install-extension-tests.js"
-  },
-  "husky": {
-    "hooks": {
-      "pre-push": "npm test"
-    }
+    "postinstall": "node run/install-base.js",
+    "start": "node node_modules/fepper/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/electric-eloquence/fepper.git"
+    "url": "git+https://github.com/electric-eloquence/fepper-base.git"
   },
   "keywords": [
     "atomic",
