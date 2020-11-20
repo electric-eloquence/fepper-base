@@ -1,24 +1,17 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/electric-eloquence/fepper-npm/master/excludes/fepper-branding.png"
-    alt="Fepper"
+    alt="Fepper Base"
   >
 </p>
 
 <h2 align="center">A frontend prototyper tool for rapid prototyping of websites</h2>
 
-### Downstream projects
+### This is a Base checkout of Fepper.
 
-* [Fepper Base](https://github.com/electric-eloquence/fepper-base) - no 
-  unnecessary assets, styles, or Pattern Lab demo.
-* [Fepper for Drupal](https://github.com/electric-eloquence/fepper-drupal) - 
-  templates configured for Drupal 8, along with a Drupal theme built to 
-  accommodate those templates.
-* [Fepper for Windows](https://github.com/electric-eloquence/fepper-windows) - 
-  scripted to run on Windows.
-* [Fepper for Wordpress](https://github.com/electric-eloquence/fepper-wordpress) 
-  \- templates configured for WordPress, along with a WordPress theme built to 
-  accommodate those templates.
+It does not have unnecesary frontend assets, styles, or a Pattern Lab demo.
+
+* [Main project](https://github.com/electric-eloquence/fepper)
 
 ### Table of contents
 
@@ -50,7 +43,7 @@
 #### Simplest way to get started
 
 * Download the 
-  <a href="https://github.com/electric-eloquence/fepper/releases/latest" target="_blank">
+  <a href="https://github.com/electric-eloquence/fepper-base/releases/latest" target="_blank">
   latest release</a>.
 
 #### Main install
