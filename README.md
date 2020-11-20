@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/electric-eloquence/fepper-npm/master/excludes/fepper-branding.png"
-    alt="Fepper"
+    alt="Fepper Base"
   >
 </p>
 
@@ -23,18 +23,13 @@ compatible. (Support for just public instance fields is good enough.) This only
 pertains to the UI. Patterns and their destinations can be as backward-compatible 
 or as experimental as you wish to make them.
 
-### Downstream projects
+### This is the Base distribution of Fepper.
 
-* [Fepper Base](https://github.com/electric-eloquence/fepper-base) - no 
-  unnecessary assets, styles, Pattern Lab demo, or 
-  <a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
-  extension.
-* [Fepper for Drupal](https://github.com/electric-eloquence/fepper-drupal) - 
-  templates configured for Drupal, along with a Drupal theme built to 
-  accommodate those templates.
-* [Fepper for Wordpress](https://github.com/electric-eloquence/fepper-wordpress) 
-  \- templates configured for WordPress, along with a WordPress theme built to 
-  accommodate those templates.
+It does not include unnecesary frontend assets, styles, Pattern Lab demo, or the 
+<a href="https://www.npmjs.com/package/fp-stylus" target="_blank">fp-stylus</a> 
+extension.
+
+* [Main distribution (includes those extras)](https://github.com/electric-eloquence/fepper)
 
 ### Table of contents
 
@@ -69,7 +64,7 @@ or as experimental as you wish to make them.
 #### Simplest way to get started
 
 * Download the 
-  <a href="https://github.com/electric-eloquence/fepper/releases/latest" target="_blank">
+  <a href="https://github.com/electric-eloquence/fepper-base/releases/latest" target="_blank">
   latest release</a>.
 
 #### Mac install
@@ -677,19 +672,19 @@ As a reminder, the viewport sizes can be customized in `source/_scripts/src/vari
   Mustache</a>
 * <a href="https://www.npmjs.com/package/fepper-utils" target="_blank">Fepper Utils</a>
 
-[snyk-image]: https://snyk.io//test/github/electric-eloquence/fepper/master/badge.svg
-[snyk-url]: https://snyk.io//test/github/electric-eloquence/fepper/master
+[snyk-image]: https://snyk.io//test/github/electric-eloquence/fepper-base/master/badge.svg
+[snyk-url]: https://snyk.io//test/github/electric-eloquence/fepper-base/master
 
-[linux-image]: https://github.com/electric-eloquence/fepper/workflows/Linux%20build/badge.svg?branch=master
-[linux-url]: https://github.com/electric-eloquence/fepper/actions?query=workflow%3A"Linux+build"
+[linux-image]: https://github.com/electric-eloquence/fepper-base/workflows/Linux%20build/badge.svg?branch=master
+[linux-url]: https://github.com/electric-eloquence/fepper-base/actions?query=workflow%3A"Linux+build"
 
-[mac-image]: https://github.com/electric-eloquence/fepper/workflows/Mac%20build/badge.svg?branch=master
-[mac-url]: https://github.com/electric-eloquence/fepper/actions?query=workflow%3A"Mac+build"
+[mac-image]: https://github.com/electric-eloquence/fepper-base/workflows/Mac%20build/badge.svg?branch=master
+[mac-url]: https://github.com/electric-eloquence/fepper-base/actions?query=workflow%3A"Mac+build"
 
-[windows-image]: https://github.com/electric-eloquence/fepper/workflows/Windows%20build/badge.svg?branch=master
-[windows-url]: https://github.com/electric-eloquence/fepper/actions?query=workflow%3A"Windows+build"
+[windows-image]: https://github.com/electric-eloquence/fepper-base/workflows/Windows%20build/badge.svg?branch=master
+[windows-url]: https://github.com/electric-eloquence/fepper-base/actions?query=workflow%3A"Windows+build"
 
 [node-version-image]: https://img.shields.io/node/v/fepper.svg
 
-[license-image]: https://img.shields.io/github/license/electric-eloquence/fepper.svg
-[license-url]: https://raw.githubusercontent.com/electric-eloquence/fepper/master/LICENSE
+[license-image]: https://img.shields.io/github/license/electric-eloquence/fepper-base.svg
+[license-url]: https://raw.githubusercontent.com/electric-eloquence/fepper-base/master/LICENSE
